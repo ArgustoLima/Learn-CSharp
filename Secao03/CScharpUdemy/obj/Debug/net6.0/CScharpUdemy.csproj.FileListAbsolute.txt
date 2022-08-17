@@ -1,0 +1,15 @@
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\bin\Debug\net6.0\CScharpUdemy.exe
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\bin\Debug\net6.0\CScharpUdemy.deps.json
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\bin\Debug\net6.0\CScharpUdemy.runtimeconfig.json
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\bin\Debug\net6.0\CScharpUdemy.dll
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\bin\Debug\net6.0\CScharpUdemy.pdb
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.csproj.AssemblyReference.cache
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.AssemblyInfoInputs.cache
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.AssemblyInfo.cs
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.csproj.CoreCompileInputs.cache
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.dll
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\refint\CScharpUdemy.dll
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.pdb
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\CScharpUdemy.genruntimeconfig.cache
+C:\Users\97551\source\repos\CScharpUdemy\CScharpUdemy\obj\Debug\net6.0\ref\CScharpUdemy.dll

@@ -1,0 +1,15 @@
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\bin\Debug\net6.0\Secao05Exercicio.exe
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\bin\Debug\net6.0\Secao05Exercicio.deps.json
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\bin\Debug\net6.0\Secao05Exercicio.runtimeconfig.json
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\bin\Debug\net6.0\Secao05Exercicio.dll
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\bin\Debug\net6.0\Secao05Exercicio.pdb
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.csproj.AssemblyReference.cache
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.AssemblyInfoInputs.cache
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.AssemblyInfo.cs
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.dll
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\refint\Secao05Exercicio.dll
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.pdb
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\Secao05Exercicio.genruntimeconfig.cache
+C:\Users\97551\source\repos\Secao05Exercicio\Secao05Exercicio\obj\Debug\net6.0\ref\Secao05Exercicio.dll

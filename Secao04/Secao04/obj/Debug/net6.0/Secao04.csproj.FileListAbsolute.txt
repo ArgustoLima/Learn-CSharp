@@ -1,0 +1,15 @@
+C:\Users\97551\source\repos\Secao04\Secao04\bin\Debug\net6.0\Secao04.exe
+C:\Users\97551\source\repos\Secao04\Secao04\bin\Debug\net6.0\Secao04.deps.json
+C:\Users\97551\source\repos\Secao04\Secao04\bin\Debug\net6.0\Secao04.runtimeconfig.json
+C:\Users\97551\source\repos\Secao04\Secao04\bin\Debug\net6.0\Secao04.dll
+C:\Users\97551\source\repos\Secao04\Secao04\bin\Debug\net6.0\Secao04.pdb
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.csproj.AssemblyReference.cache
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.AssemblyInfoInputs.cache
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.AssemblyInfo.cs
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.csproj.CoreCompileInputs.cache
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.dll
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\refint\Secao04.dll
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.pdb
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\Secao04.genruntimeconfig.cache
+C:\Users\97551\source\repos\Secao04\Secao04\obj\Debug\net6.0\ref\Secao04.dll

@@ -1,0 +1,15 @@
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\bin\Debug\net6.0\Secao06V3.exe
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\bin\Debug\net6.0\Secao06V3.deps.json
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\bin\Debug\net6.0\Secao06V3.runtimeconfig.json
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\bin\Debug\net6.0\Secao06V3.dll
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\bin\Debug\net6.0\Secao06V3.pdb
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.csproj.AssemblyReference.cache
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.AssemblyInfoInputs.cache
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.AssemblyInfo.cs
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.csproj.CoreCompileInputs.cache
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.dll
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\refint\Secao06V3.dll
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.pdb
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\Secao06V3.genruntimeconfig.cache
+C:\Users\97551\source\repos\Secao06V3\Secao06V3\obj\Debug\net6.0\ref\Secao06V3.dll

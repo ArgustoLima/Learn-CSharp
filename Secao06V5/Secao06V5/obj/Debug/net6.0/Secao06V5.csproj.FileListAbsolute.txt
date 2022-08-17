@@ -1,0 +1,15 @@
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.csproj.AssemblyReference.cache
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.AssemblyInfoInputs.cache
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.AssemblyInfo.cs
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.csproj.CoreCompileInputs.cache
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\bin\Debug\net6.0\Secao06V5.exe
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\bin\Debug\net6.0\Secao06V5.deps.json
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\bin\Debug\net6.0\Secao06V5.runtimeconfig.json
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\bin\Debug\net6.0\Secao06V5.dll
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\bin\Debug\net6.0\Secao06V5.pdb
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.dll
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\refint\Secao06V5.dll
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.pdb
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\Secao06V5.genruntimeconfig.cache
+C:\Users\97551\source\repos\Secao06V5\Secao06V5\obj\Debug\net6.0\ref\Secao06V5.dll

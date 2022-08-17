@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Secao04Exercicio/1.0.0": {
+        "runtime": {
+          "Secao04Exercicio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao04Exercicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
